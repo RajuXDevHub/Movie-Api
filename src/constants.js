@@ -1,0 +1,1 @@
+export  const apiKey  = import.meta.env.VITE_OMB_API_KEY
